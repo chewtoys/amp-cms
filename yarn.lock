@@ -2194,10 +2194,10 @@ lego-api@^1.0.8:
   dependencies:
     chain-able "^3.0.0"
 
-liquidjs@^9.22.0:
-  version "9.22.0"
-  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-9.22.0.tgz#8b5940dd0ff224b1d9d0252b5a8de323ab42a6d1"
-  integrity sha512-b9R3eP75gCTzxY0EUBe20gtuG9TdtWNs/udyuJZG7hUfIZJlZyIpeL+kbTSFrH2UwOLK4q3MUw0DrtlzHQpWIg==
+liquidjs@^9.22.1:
+  version "9.22.1"
+  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-9.22.1.tgz#30a4a67f3ad6cd2ef03d350e3dc04787819184b8"
+  integrity sha512-4gvj9vKqSaLZGQPLcL0kg5CWT+d/gSLMCsoB3aD1W9nQbVViFBm22caGRFQRphpkHoLb+mQ//MHZcNp0lf8qkg==
 
 load-json-file@^1.0.0:
   version "1.1.0"
